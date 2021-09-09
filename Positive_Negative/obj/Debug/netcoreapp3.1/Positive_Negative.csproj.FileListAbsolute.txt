@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\bin\Debug\netcoreapp3.1\Positive_Negative.exe
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\bin\Debug\netcoreapp3.1\Positive_Negative.deps.json
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\bin\Debug\netcoreapp3.1\Positive_Negative.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\bin\Debug\netcoreapp3.1\Positive_Negative.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\bin\Debug\netcoreapp3.1\Positive_Negative.dll
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\bin\Debug\netcoreapp3.1\Positive_Negative.pdb
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\obj\Debug\netcoreapp3.1\Positive_Negative.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\obj\Debug\netcoreapp3.1\Positive_Negative.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\obj\Debug\netcoreapp3.1\Positive_Negative.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\obj\Debug\netcoreapp3.1\Positive_Negative.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\obj\Debug\netcoreapp3.1\Positive_Negative.dll
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\obj\Debug\netcoreapp3.1\Positive_Negative.pdb
+C:\Users\opilane\source\repos\logitpe21\Control_Flow\Positive_Negative\obj\Debug\netcoreapp3.1\Positive_Negative.genruntimeconfig.cache
